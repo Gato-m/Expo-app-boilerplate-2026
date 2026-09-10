@@ -17,5 +17,11 @@
         }
       }
     }
+  },
+  "mcp": {
+    "expo": {
+      "type": "remote",
+      "url": "https://mcp.expo.dev/mcp"
+    }
   }
 }
